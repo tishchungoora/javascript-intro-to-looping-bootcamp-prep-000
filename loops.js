@@ -23,6 +23,7 @@ function whileLoop(number) {
 // Experiment with 'do-while' loop
 
 function doWhileLoop(num) {
+  var i = 0;
   function incrementVariable() {
   var i = i + 1;
   return i;
